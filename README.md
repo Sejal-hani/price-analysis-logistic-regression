@@ -1,4 +1,3 @@
-# price-analysis-logistic-regression
 
 # Price Analysis Using Logistic Regression
 
